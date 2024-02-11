@@ -96,7 +96,7 @@ const questions = [
   
   const corrects = new Set();
   const totalOfQuestions = questions.length;
-  const showTotal = document.querySelector('#acertos span');
+  const showTotal = document.querySelector('#hits span');
   showTotal.textContent = corrects.size + ' de ' + totalOfQuestions;
   
   //loop ou laço de repetição
