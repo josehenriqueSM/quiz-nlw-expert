@@ -1,2 +1,8 @@
 # nlw-experts
-NLW Expert trail html, css e js
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Github
